@@ -1,4 +1,4 @@
-#CS410_ChunYung
+#CS410_ChunYung (Open this on new windows for better view)
 
 ===Code Refactoring (Nov 6th, 2017)===
 index.html contains a lot of css code and js code is at the end of <body> tag,
